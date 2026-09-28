@@ -1,2 +1,7 @@
-# new_naadb
-New Naadb
+## Naadb
+
+Application for customization & New Development
+
+#### License
+
+mit
